@@ -1,0 +1,14 @@
+wtforms==2.3.3
+Pillow
+Jinja2==3.0.1
+Flask==2.0.3
+Werkzeug==2.0.3
+pyOpenSSL
+urllib3
+markupsafe==2.0.1
+PySocks==1.5.6
+Flask-WTF==0.14.3
+cryptography==38.0.4
+psycopg2
+apache-superset
+
